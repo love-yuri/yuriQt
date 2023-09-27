@@ -1,0 +1,22 @@
+{
+    "Login_ui": {
+        "height": 520,
+        "height_default": 520,
+        "width": 430,
+        "width_default": 430,
+        "x": 0,
+        "y": 0
+    },
+    "MySql": {
+        "hostname": "127.0.0.1",
+        "port": 3306,
+        "user_info": {
+            "root": "root",
+            "yuri": "yuri"
+        }
+    },
+    "Settings": {
+        "is_auto_login": true,
+        "is_remember_password": true
+    }
+}
